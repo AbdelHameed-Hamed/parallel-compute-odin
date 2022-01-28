@@ -1,4 +1,4 @@
-package main
+package compute
 
 import "core:sync"
 import "core:thread"
